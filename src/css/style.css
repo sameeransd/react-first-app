@@ -1,0 +1,12 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.sub-total {
+  font-size: 30px;
+}
+
+.flex-container {
+  display: flex;
+}
